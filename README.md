@@ -11,6 +11,6 @@ Few of the images used in data :-
 
 Neural networks concepts such as forward and backward propagation are implemented from scratch.
 To improve the performance of the system optimization techniques such as regularization, adam optimization and batch gradient descent are used.
-99% test accuracy is obtained.
+95% test accuracy is obtained.
 
 
