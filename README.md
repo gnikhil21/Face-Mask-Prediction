@@ -12,6 +12,14 @@ Few of the images used in data
 
 Neural networks concepts such as forward and backward propagation are implemented from scratch.
 To improve the performance of the system optimization techniques such as regularization, adam optimization and batch gradient descent are used.
+
+
+# Results
 95% test accuracy is obtained.
+
+![image](https://user-images.githubusercontent.com/71962323/172317183-1a8abfb7-fbd9-4550-becc-3f97ce28e2b7.png)
+
+![image](https://user-images.githubusercontent.com/71962323/172317475-3baae7ff-a5b4-4e2c-b0d8-12923a25d12b.png)
+
 
 
